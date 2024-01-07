@@ -1,6 +1,4 @@
-Execute the Python script in your terminal:
-
-Execute files-
+Execute the Python script in the terminal:
 python3 python_file_name
 
 Usage:
