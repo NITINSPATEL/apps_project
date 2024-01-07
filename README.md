@@ -1,5 +1,6 @@
 Execute the Python script in your terminal:
-Copy code
+
+Execute files-
 python3 python_file_name
 
 Usage:
@@ -15,15 +16,14 @@ Click "Stop Monitoring" to halt the activity monitoring.
 Then,
 Using PyInstaller:
 
-Run the following command in your terminal:
+Run the following command in the terminal:
 pyinstaller --onefile python_file_name
 
 
 Notes:
 Ensure to have tkinter and pygame installed. If not, use pip to install them:
-
-Copy code
 pip install tkinter pygame
+
 The default monitoring duration is 10 seconds.
 
 After above commands, the required app will be made in 'dist' directory in present working directory from the corresponding python script.
